@@ -7,6 +7,4 @@ Also don't forget to checkout my [website](https://clever-mcclintock-c29857.netl
 
 ---
 
-&nbsp;
-
 ![github stats](https://github-readme-stats.vercel.app/api/?username=AryaAnish121&count_private=true&showicons=true)
